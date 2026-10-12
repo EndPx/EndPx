@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-labelledby="title desc">
+  <title id="title">Albary — web and onchain products</title>
+  <desc id="desc">EndPx profile banner with connected geometric blocks representing interfaces, APIs, and contracts.</desc>
+  <rect width="1280" height="380" rx="24" fill="#142735"/>
+  <path d="M800 0H1280V380H955Z" fill="#1B3545"/>
+  <path d="M1030 0H1280V380H1160Z" fill="#244558"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="64" y="84" fill="#F6CE65" font-size="28" font-weight="700" letter-spacing="4">ENDPX / INDONESIA</text>
+    <text x="60" y="185" fill="#FFFFFF" font-size="100" font-weight="700" letter-spacing="-3">Albary.</text>
+    <text x="64" y="250" fill="#E3EDF1" font-size="36">Building web &amp; onchain products</text>
+    <text x="64" y="316" fill="#B8CDD7" font-size="28">Interfaces · APIs · Data · Smart contracts</text>
+  </g>
+  <g fill="none" stroke="#A9C5D3" stroke-width="4">
+    <path d="M933 125V190H1055V264H1156"/>
+    <path d="M1055 125V190H933V264"/>
+  </g>
+  <rect x="884" y="68" width="98" height="98" rx="18" fill="#F6CE65"/>
+  <path d="M903 93H964M903 112H945M903 131H953" stroke="#142735" stroke-width="7" stroke-linecap="round"/>
+  <rect x="1006" y="68" width="98" height="98" rx="18" fill="#83B6E8"/>
+  <path d="M1038 98L1021 117L1038 136M1072 98L1089 117L1072 136" fill="none" stroke="#142735" stroke-width="7" stroke-linejoin="round"/>
+  <rect x="884" y="218" width="98" height="98" rx="18" fill="#B9D3C3"/>
+  <g fill="none" stroke="#142735" stroke-width="5">
+    <ellipse cx="933" cy="246" rx="26" ry="10"/>
+    <path d="M907 246V280C907 294 959 294 959 280V246M907 263C907 278 959 278 959 263"/>
+  </g>
+  <rect x="1107" y="218" width="98" height="98" rx="18" fill="#DF937E"/>
+  <g fill="none" stroke="#142735" stroke-width="6">
+    <rect x="1126" y="247" width="38" height="29" rx="12" transform="rotate(-35 1145 261)"/>
+    <rect x="1148" y="261" width="38" height="29" rx="12" transform="rotate(-35 1167 275)"/>
+  </g>
+</svg>

@@ -1,3 +1,5 @@
+<img src="assets/profile-banner.svg" alt="Albary / EndPx — building web and onchain products across interfaces, APIs, data, and smart contracts" width="100%" />
+
 # Hi, I'm Albary
 
 I'm **Muhammad Meidy Noor Al-Barry (EndPx)**, a fullstack developer in Indonesia and a Computer Science student at **UPN Veteran Yogyakarta**.
@@ -11,6 +13,10 @@ I build web and onchain products across interfaces, APIs, data, and smart contra
 ### NabungFi · Goal-based USDC savings
 A multichain savings app where progress becomes a 100-piece 3D build. It connects a React PWA, authenticated backend, and Solana/EVM vaults.
 
+[![NabungFi goals interface with a three-dimensional car, laptop, and house build; example account with illustrative balances](assets/nabungfi-goals.png)](https://github.com/EndPx/nabungfi)
+
+*Product preview: example account and illustrative balances, not user savings or adoption metrics.*
+
 - **Engineering focus:** isolated goals, cross-chain state coordination, wallet flows, and recovery without blindly replaying transactions.
 - **Evidence:** documented browser-signed testnet deposits, completion, and claims, with original transaction links. The current release uses cash vaults; mainnet and realized yield are outside its scope.
 
@@ -18,6 +24,10 @@ A multichain savings app where progress becomes a 100-piece 3D build. It connect
 
 ### CommitPass · Refundable commitments for events
 An event platform on Monad testnet: reserve a seat, receive a QR pass, check in, and claim after settlement.
+
+[![CommitPass public landing page introducing refundable commitments for events, with event cards and an Explore events button](assets/commitpass-live.jpg)](https://github.com/EndPx/commitpass)
+
+*Product preview: the public CommitPass landing page. Testnet execution scope is described below.*
 
 - **My work:** fullstack implementation across Next.js, Go, Neon, Envio indexing, and Solidity contracts, building on the ATFI foundation credited in the repository.
 - **Engineering focus:** contract-controlled funds, host-attested attendance, and indexed application state.
