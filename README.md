@@ -6,7 +6,7 @@ I'm **Muhammad Meidy Noor Al-Barry (EndPx)**, a fullstack developer in Indonesia
 
 I build web and onchain products across interfaces, APIs, data, and smart contracts. My current work focuses on wallet UX, exact accounting, and transaction recovery.
 
-[Portfolio](https://portfolio.endpx.cloud) · [LinkedIn](https://www.linkedin.com/in/al-barry/)
+[Portfolio](https://portfolio.endpx.cloud) · [LinkedIn](https://www.linkedin.com/in/al-barry/) · [X](https://x.com/endpx_)
 
 ## Selected work
 
