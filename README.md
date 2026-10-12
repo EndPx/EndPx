@@ -39,7 +39,7 @@ A pixel-art editor with 19 WebMCP tools. Human and agent edits share an action l
 
 - **ReFlow:** smart-contract and backend engineering for lending-asset tokenization on Mantle, including Ponder indexing and collaboration with ReStock. **Champion — Mantle Global Hackathon (Builder Story Spotlight)**.
 - **ATFi:** fullstack Web3 development for event commitments on Base using ERC-4626, Goldsky, and Morpho. **Winner — Base Batches #2**.
-- Built a village profile website with Express.js and Cloud Firestore, supported web-development training at ITC UPNVY, and mentored smart-contract and dApp development at Base Workshop #2.
+- Built a village profile website with Express.js and Cloud Firestore, and supported web-development training at ITC UPNVY.
 
 ## Tools I work with
 
