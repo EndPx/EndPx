@@ -5,3 +5,5 @@
 - `commitpass-live.jpg`: unchanged public CommitPass landing-page screenshot from [docs/assets/commitpass-live.jpg](https://github.com/EndPx/commitpass/blob/main/docs/assets/commitpass-live.jpg). No account-specific information is shown.
 
 Retrieved on 2026-10-12. Screenshots illustrate product interfaces; release and execution limitations remain in the profile README and project evidence documents.
+
+`buttons/*.svg` are original static navigation buttons created for this profile. They carry no metrics or external chart dependencies; each is wrapped in a normal Markdown link with its destination unchanged.
