@@ -1,72 +1,71 @@
-<img src="assets/profile-banner.svg" alt="Albary / EndPx — building web and onchain products across interfaces, APIs, data, and smart contracts" width="100%" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1220,55:17405F,100:087E83&amp;height=165&amp;section=header&amp;text=EndPx&amp;fontSize=58&amp;fontColor=FFFFFF&amp;fontAlignY=40&amp;animation=fadeIn" width="854" alt="EndPx" />
+</p>
 
-# Hi, I'm Albary
+<h1 align="center">Hi, I’m Albary</h1>
 
-I'm **Muhammad Meidy Noor Al-Barry (EndPx)**, a fullstack developer in Indonesia and a Computer Science student at **UPN Veteran Yogyakarta**.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=2800&amp;pause=1800&amp;color=0B8585&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=520&amp;height=36&amp;lines=Full-stack+%26+onchain+developer;APIs%2C+protocols+%26+interactive+systems" width="520" alt="Full-stack and onchain developer. APIs, protocols, and interactive systems." />
+</p>
 
-I build web and onchain products across interfaces, APIs, data, and smart contracts. My current work focuses on wallet UX, exact accounting, and transaction recovery.
+<p align="center">
+  <a href="https://portfolio.endpx.cloud"><strong>Portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/al-barry/"><strong>LinkedIn</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/endpx_"><strong>X @endpx_</strong></a>
+</p>
 
-[Portfolio](https://portfolio.endpx.cloud) · [LinkedIn](https://www.linkedin.com/in/al-barry/) · [X](https://x.com/endpx_)
+## About me
 
-## Selected work
+I’m **Muhammad Meidy Noor Al-Barry**, a full-stack developer based in Indonesia. I build web and onchain products across interfaces, APIs, data pipelines, and smart contracts. I’m especially interested in wallet UX, exact accounting, and making failed transactions recoverable.
 
-### NabungFi · Goal-based USDC savings
-A multichain savings app where progress becomes a 100-piece 3D build. It connects a React PWA, authenticated backend, and Solana/EVM vaults.
+I worked on smart contracts and backend infrastructure for **ReFlow**, which earned Champion in the Mantle Global Hackathon’s Builder Story Spotlight, and on full-stack Web3 development for **ATFi**, a Base Batches #2 winner.
 
-[![NabungFi goals interface with a three-dimensional car, laptop, and house build; example account with illustrative balances](assets/nabungfi-goals.png)](https://github.com/EndPx/nabungfi)
+## Technologies
 
-*Product preview: example account and illustrative balances, not user savings or adoption metrics.*
+![TypeScript](https://img.shields.io/badge/TypeScript-17405F?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-17405F?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-17405F?style=flat-square&logo=nextdotjs&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-17405F?style=flat-square&logo=threedotjs&logoColor=white)
 
-- **Engineering focus:** isolated goals, cross-chain state coordination, wallet flows, and recovery without blindly replaying transactions.
-- **Evidence:** documented browser-signed testnet deposits, completion, and claims, with original transaction links. The current release uses cash vaults; mainnet and realized yield are outside its scope.
+![Go](https://img.shields.io/badge/Go-0D696C?style=flat-square&logo=go&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-0D696C?style=flat-square&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D696C?style=flat-square&logo=postgresql&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-0D696C?style=flat-square&logo=rust&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-0D696C?style=flat-square&logo=solidity&logoColor=white)
 
-[![Code](assets/buttons/code.svg)](https://github.com/EndPx/nabungfi)
-[![App](assets/buttons/app.svg)](https://nabungfi.endpx.cloud/app)
-[![Demo](assets/buttons/demo.svg)](https://www.youtube.com/watch?v=IL7THrY67Gk)
-[![Execution evidence](assets/buttons/execution-evidence.svg)](https://github.com/EndPx/nabungfi/blob/main/docs/DEMO_EVIDENCE.md)
+## Featured projects
 
-### CommitPass · Refundable commitments for events
-An event platform on Monad testnet: reserve a seat, receive a QR pass, check in, and claim after settlement.
+### [NabungFi](https://github.com/EndPx/nabungfi) · Cross-chain finance
 
-[![CommitPass public landing page introducing refundable commitments for events, with event cards and an Explore events button](assets/commitpass-live.jpg)](https://github.com/EndPx/commitpass)
+A goal-based USDC savings app where progress assembles a 100-piece 3D model. Dedicated vaults on Solana and Base support a [recorded testnet flow](https://github.com/EndPx/nabungfi/blob/main/docs/DEMO_EVIDENCE.md) from deposit through completion and claim.
 
-*Product preview: the public CommitPass landing page. Testnet execution scope is described below.*
+### [Zeer](https://github.com/EndPx/zeer) · Data infrastructure
 
-- **My work:** fullstack implementation across Next.js, Go, Neon, Envio indexing, and Solidity contracts, building on the ATFI foundation credited in the repository.
-- **Engineering focus:** contract-controlled funds, host-attested attendance, and indexed application state.
-- **Status:** public testnet settlement and claim evidence; mock yield and CRE CLI broadcast simulation are explicitly separated from production deployment.
+A Zcash data engine and indexing framework with a TypeScript SDK, GraphQL queries, and a local scanner for shielded receipts. Available as a testnet developer preview.
 
-[![Code](assets/buttons/code.svg)](https://github.com/EndPx/commitpass)
-[![Demo](assets/buttons/demo.svg)](https://www.youtube.com/watch?v=p8Wsvpcy7ZU)
-[![Evidence and limits](assets/buttons/evidence-limits.svg)](https://github.com/EndPx/commitpass/blob/main/docs/EVIDENCE.md)
+### [LayoutLab](https://github.com/EndPx/layoutlab) · Simulation and planning
 
-### Rocket Arena · Realtime multiplayer
-A browser car-ball game using TypeScript, Colyseus, Rapier, and Three.js, with server-authoritative physics and synchronized rendering.
+An interactive warehouse workspace for testing layout changes against a preserved baseline. It runs controlled simulations on synthetic layouts and exports the inputs and results for replay.
 
-[![Code](assets/buttons/code.svg)](https://github.com/EndPx/Rocket-Arena)
+### [PixelForge](https://github.com/EndPx/pixelforge) · Agent-assisted creative tools
 
-### PixelForge · A shared canvas for people and agents
-A pixel-art editor with 19 WebMCP tools. Human and agent edits share an action layer and undo history, making changes visible and reversible.
+A browser pixel-art studio with 19 WebMCP tools. People and agents work on the same canvas through a shared action layer, so agent edits show up in the activity feed and can be undone.
 
-[![Code](assets/buttons/code.svg)](https://github.com/EndPx/pixelforge)
+### [Rocket Arena](https://github.com/EndPx/Rocket-Arena) · Real-time multiplayer
 
-## Previous work
+A browser car-ball game with 3v3 quick matches and custom rooms for up to eight players. The server owns match state using Colyseus and Rapier, while clients render synchronized play in Three.js.
 
-- **ReFlow:** smart-contract and backend engineering for lending-asset tokenization on Mantle, including Ponder indexing and collaboration with ReStock. **Champion — Mantle Global Hackathon (Builder Story Spotlight)**.
-- **ATFi:** fullstack Web3 development for event commitments on Base using ERC-4626, Goldsky, and Morpho. **Winner — Base Batches #2**.
-- Built a village profile website with Express.js and Cloud Firestore, and supported web-development training at ITC UPNVY.
+## GitHub activity
 
-## Tools I work with
+<p align="center">
+  <a href="https://github.com/EndPx">
+    <img src="https://github-readme-stats.vercel.app/api?username=EndPx&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark&amp;disable_animations=true" width="467" alt="EndPx’s GitHub statistics, including commits, pull requests, and issues" />
+  </a>
+</p>
 
-- **Frontend:** TypeScript, React, Next.js
-- **Backend & data:** Go, Node.js, Express, SQL, Neon, Firestore
-- **Onchain:** Solidity, Foundry, Solana/Anchor, event indexing
-- **Interactive applications:** Three.js, realtime networking, shared state
+<p align="center">
+  <a href="https://github.com/EndPx#contribution-activity">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=EndPx&amp;theme=github-compact&amp;hide_border=true&amp;area=true" width="854" alt="EndPx’s GitHub contribution activity over the last 31 days" />
+  </a>
+</p>
 
-## How I approach engineering
-
-I make transaction state and recovery paths explicit, keep test evidence separate from production claims, and document what a demo proves and what still needs validation. The project repositories include architecture notes, test instructions, and execution evidence for a closer technical review.
-
----
-
-B.Sc. Computer Science · UPN Veteran Yogyakarta · 2022–present
+<p align="center">
+  <a href="https://github.com/EndPx?tab=repositories">Browse all repositories</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/EndPx#contributions-calendar">Open GitHub’s contribution calendar</a>
+</p>
